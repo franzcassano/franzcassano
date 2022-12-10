@@ -41,9 +41,9 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="Facebook" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />](https://www.facebook.com/profile.php?id=100075188842072)
-[<img align="left" alt="Instagram" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1464521-1239436.png" />](https://www.instagram.com/franz_lc007)
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-1464537-1239448.png" />](https://twitter.com/franzlc7)
-[<img align="left" alt="Whatsapp" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-40-189779.png" />](https://wa.me/message/3DRSUY6WKSAGI1)
-[<img align="left" alt="Github" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-163-761603.png" />](https://github.com/franzcassano)
-[<img align="left" alt="Telegram" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1660431-1408699.png" />](https://t.me/FranzOnly)
+[<img align="left" alt="Facebook" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-262-721949.png" />](https://www.facebook.com/profile.php?id=100075188842072)
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" />](https://www.instagram.com/franz_lc007)
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" />](https://twitter.com/franzlc7)
+[<img align="left" alt="Whatsapp" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-1868967-1583131.png" />](https://wa.me/message/3DRSUY6WKSAGI1)
+[<img align="left" alt="Github" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/developer-tool-1889494-1597554.png" />](https://github.com/franzcassano)
+[<img align="left" alt="Telegram" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-2752057-2284874.png" />](https://t.me/FranzOnly)
