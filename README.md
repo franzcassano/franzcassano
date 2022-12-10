@@ -19,13 +19,13 @@
 [![JS](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)](#)
 
 ---
-## OS:
+## OS🖥️:
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![WIN](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)
 
 ---
-## Tools:
+## Tools🛠️:
 
 <img align="left" alt="Sublime" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/sublime-439588.png" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/atom-134-226073.png" style="padding-right:10px;" />
